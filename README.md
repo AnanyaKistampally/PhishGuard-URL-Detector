@@ -1,5 +1,6 @@
 # 🔐 PhishGuard - URL Safety Checker
 🔗 **Live Demo (Run locally):** http://localhost:8501
+
 PhishGuard is a simple cybersecurity tool that detects potential phishing risks in URLs using rule-based analysis.
 
 ---

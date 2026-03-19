@@ -24,7 +24,7 @@ def check_url(url):
     else:
         return "DANGEROUS 🚨"
 
-st.title("🔐 PhishGuard - URL Safety Checker")
+st.title("🔐 LinkShield - URL Safety Checker")
 
 url = st.text_input("Enter URL:")
 

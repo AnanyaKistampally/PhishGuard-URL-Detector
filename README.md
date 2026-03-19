@@ -1,7 +1,7 @@
-# 🔐 PhishGuard - URL Safety Checker
+# 🔐 LinkShield - URL Safety Checker
 🔗 **Run locally on your machine:** streamlit run app.py
 
-PhishGuard is a beginner-friendly cybersecurity project that detects potential phishing risks in URLs using rule-based analysis.
+LinkShield is a beginner-friendly cybersecurity project that detects potential phishing risks in URLs using rule-based analysis.
 
 ---
 
